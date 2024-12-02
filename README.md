@@ -5,3 +5,5 @@
 4. **Update Records**: Allows seamless updating of student information by fetching data based on roll number.
 5. **Delete Records**: Safely removes records while maintaining system integrity.
 6. **Scalability**: The modular design and integration of `main_module` functions make it adaptable for future enhancements like advanced search and reporting features.
+![image](https://github.com/user-attachments/assets/5f9fc7d1-5459-45e7-bfe9-b886f800ec1a)
+![image](https://github.com/user-attachments/assets/4197e206-d203-4aec-9020-66d6290d57fc)
